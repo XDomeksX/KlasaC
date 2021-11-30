@@ -1,0 +1,8 @@
+D:\Visual Studio\C#\KlasaC\KlasaC\bin\Debug\KlasaC.exe.config
+D:\Visual Studio\C#\KlasaC\KlasaC\bin\Debug\KlasaC.exe
+D:\Visual Studio\C#\KlasaC\KlasaC\bin\Debug\KlasaC.pdb
+D:\Visual Studio\C#\KlasaC\KlasaC\obj\Debug\KlasaC.csproj.AssemblyReference.cache
+D:\Visual Studio\C#\KlasaC\KlasaC\obj\Debug\KlasaC.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\C#\KlasaC\KlasaC\obj\Debug\KlasaC.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C#\KlasaC\KlasaC\obj\Debug\KlasaC.exe
+D:\Visual Studio\C#\KlasaC\KlasaC\obj\Debug\KlasaC.pdb
